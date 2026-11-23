@@ -1,0 +1,34 @@
+paimon-core/src/main/java/org/apache/paimon/mergetree/compact/aggregate/FieldAggregator.java
+  s_0f686a81b0205a::t_7e57b227441c35 49-67
+  s_0f686a81b0205a::t_647cafd7d12b9b 23-24
+paimon-core/src/main/java/org/apache/paimon/mergetree/compact/PartialUpdateMergeFunction.java
+  s_0f686a81b0205a::t_782aad9ca11224 475-477,479-486
+  s_0f686a81b0205a::t_d2749199550544 437,444,449-454
+  s_0f686a81b0205a::t_5061c661c2f070 168,171-173
+  s_0f686a81b0205a::t_bfa0b030870c6b 136
+paimon-core/src/test/java/org/apache/paimon/mergetree/compact/PartialUpdateFirstRetractTest.java
+  s_0f686a81b0205a::t_dee85e573c1683 141-146,148-150,152,154,156-157
+  s_0f686a81b0205a::t_f0ded607738793 147,151,153,155
+paimon-core/src/main/java/org/apache/paimon/mergetree/compact/aggregate/FieldIgnoreRetractAgg.java
+  s_0f686a81b0205a::t_c61b6b7c264d3d 49-52
+paimon-core/src/main/java/org/apache/paimon/mergetree/compact/aggregate/FieldSumAgg.java
+  s_0f686a81b0205a::t_125da71f1435c0 38-39,43-45
+paimon-core/src/test/java/org/apache/paimon/mergetree/compact/aggregate/FieldAggregatorTest.java
+  s_0f686a81b0205a::t_9d510b15d9b0f4 636-638,648-649
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "55e140d65ef6c13469d4fe184463a4351fd01e01",
+  "prompts": {},
+  "sessions": {
+    "s_0f686a81b0205a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "73c174b5-b78a-43a3-b5d5-16c7583429c2",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "l_hou <l_hou@trip.com>"
+    }
+  }
+}
